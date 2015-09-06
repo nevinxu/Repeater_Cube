@@ -1,0 +1,22 @@
+---- wlan_smart_config_process Matches (18 in 6 files) ----
+Wifi_application.c (d:\arm project\无线输液\产品\中继\a101_3\sw\repeater_project(2014.8.30)\repeater_project\app):    wlan_smart_config_process();
+Wifi_project.htm (d:\arm project\无线输液\产品\中继\a101_3\sw\repeater_project(2014.8.30)\repeater_project\project\obj):<BR><BR>[Stack]<UL><LI>Max Depth = 304<LI>Call Chain = StartSmartConfig &rArr; wlan_smart_config_process &rArr; wlan_add_profile &rArr; SimpleLinkWaitEvent &rArr; hci_event_handler &rArr; hci_unsol_handle_patch_request &rArr; hci_patch_send &rArr; SpiWrite &rArr; SpiFirstWrite &rArr; SpiWriteDataSynchronous &rArr; TXBufferIsEmpty
+Wifi_project.htm (d:\arm project\无线输液\产品\中继\a101_3\sw\repeater_project(2014.8.30)\repeater_project\project\obj):<LI><a href="#[8a]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;wlan_smart_config_process
+Wifi_project.htm (d:\arm project\无线输液\产品\中继\a101_3\sw\repeater_project(2014.8.30)\repeater_project\project\obj):<BR><BR>[Stack]<UL><LI>Max Depth = 312<LI>Call Chain = Wifi_event_handler &rArr; StartSmartConfig &rArr; wlan_smart_config_process &rArr; wlan_add_profile &rArr; SimpleLinkWaitEvent &rArr; hci_event_handler &rArr; hci_unsol_handle_patch_request &rArr; hci_patch_send &rArr; SpiWrite &rArr; SpiFirstWrite &rArr; SpiWriteDataSynchronous &rArr; TXBufferIsEmpty
+Wifi_project.htm (d:\arm project\无线输液\产品\中继\a101_3\sw\repeater_project(2014.8.30)\repeater_project\project\obj):<BR>[Called By]<UL><LI><a href="#[8a]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;wlan_smart_config_process
+Wifi_project.htm (d:\arm project\无线输液\产品\中继\a101_3\sw\repeater_project(2014.8.30)\repeater_project\project\obj):<BR>[Called By]<UL><LI><a href="#[8a]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;wlan_smart_config_process
+Wifi_project.htm (d:\arm project\无线输液\产品\中继\a101_3\sw\repeater_project(2014.8.30)\repeater_project\project\obj):<BR>[Called By]<UL><LI><a href="#[8a]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;wlan_smart_config_process
+Wifi_project.htm (d:\arm project\无线输液\产品\中继\a101_3\sw\repeater_project(2014.8.30)\repeater_project\project\obj):<BR>[Called By]<UL><LI><a href="#[8a]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;wlan_smart_config_process
+Wifi_project.htm (d:\arm project\无线输液\产品\中继\a101_3\sw\repeater_project(2014.8.30)\repeater_project\project\obj):<P><STRONG><a name="[8a]"></a>wlan_smart_config_process</STRONG> (Thumb, 268 bytes, Stack size 48 bytes, wlan.o(.text))
+Wifi_project.htm (d:\arm project\无线输液\产品\中继\a101_3\sw\repeater_project(2014.8.30)\repeater_project\project\obj):<BR><BR>[Stack]<UL><LI>Max Depth = 288<LI>Call Chain = wlan_smart_config_process &rArr; wlan_add_profile &rArr; SimpleLinkWaitEvent &rArr; hci_event_handler &rArr; hci_unsol_handle_patch_request &rArr; hci_patch_send &rArr; SpiWrite &rArr; SpiFirstWrite &rArr; SpiWriteDataSynchronous &rArr; TXBufferIsEmpty
+Wlan.c (d:\arm project\无线输液\产品\中继\a101_3\sw\repeater_project(2014.8.30)\repeater_project\library\wlan)://!  wlan_smart_config_process
+Wlan.c (d:\arm project\无线输液\产品\中继\a101_3\sw\repeater_project(2014.8.30)\repeater_project\library\wlan):wlan_smart_config_process()
+Wlan.c (d:\arm project\无线输液\产品\中继\a101_3\sw\repeater_project(2014.8.30)\repeater_project\wlan)://!  wlan_smart_config_process
+Wlan.c (d:\arm project\无线输液\产品\中继\a101_3\sw\repeater_project(2014.8.30)\repeater_project\wlan):wlan_smart_config_process()
+Wlan.h (d:\arm project\无线输液\产品\中继\a101_3\sw\repeater_project(2014.8.30)\repeater_project\library\wlan)://!  wlan_smart_config_process
+Wlan.h (d:\arm project\无线输液\产品\中继\a101_3\sw\repeater_project(2014.8.30)\repeater_project\library\wlan):extern long wlan_smart_config_process(void);
+Wlan.h (d:\arm project\无线输液\产品\中继\a101_3\sw\repeater_project(2014.8.30)\repeater_project\wlan)://!  wlan_smart_config_process
+Wlan.h (d:\arm project\无线输液\产品\中继\a101_3\sw\repeater_project(2014.8.30)\repeater_project\wlan):extern long wlan_smart_config_process(void);
+---- wlan_smart_config_process Search Errors Encountered (1) ----
+The following 1 files could not be processed:
+D:\ARM Project\无线输液\产品\中继\A101_3\SW\Repeater_Project(2014.8.30)\Repeater_Project\Project\JLinkLog.txt : File could not be opened.

@@ -1,0 +1,9 @@
+.\obj\cc3000_common.o: ..\wlan\cc3000_common.c
+.\obj\cc3000_common.o: ..\wlan\cc3000_common.h
+.\obj\cc3000_common.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\obj\cc3000_common.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\errno.h
+.\obj\cc3000_common.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\cc3000_common.o: ..\wlan\socket.h
+.\obj\cc3000_common.o: ..\wlan\wlan.h
+.\obj\cc3000_common.o: ..\wlan\evnt_handler.h
+.\obj\cc3000_common.o: ..\wlan\hci.h

@@ -1,0 +1,11 @@
+.\obj\nvmem.o: ..\wlan\nvmem.c
+.\obj\nvmem.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\obj\nvmem.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\obj\nvmem.o: ..\wlan\nvmem.h
+.\obj\nvmem.o: ..\wlan\cc3000_common.h
+.\obj\nvmem.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\obj\nvmem.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\errno.h
+.\obj\nvmem.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\nvmem.o: ..\wlan\hci.h
+.\obj\nvmem.o: ..\wlan\socket.h
+.\obj\nvmem.o: ..\wlan\evnt_handler.h

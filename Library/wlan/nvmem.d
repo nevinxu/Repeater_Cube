@@ -1,0 +1,11 @@
+.\nvmem.o: nvmem.c
+.\nvmem.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\nvmem.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\nvmem.o: nvmem.h
+.\nvmem.o: cc3000_common.h
+.\nvmem.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\nvmem.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\errno.h
+.\nvmem.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\nvmem.o: hci.h
+.\nvmem.o: socket.h
+.\nvmem.o: evnt_handler.h

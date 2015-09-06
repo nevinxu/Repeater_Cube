@@ -1,0 +1,11 @@
+.\obj\netapp.o: ..\wlan\netapp.c
+.\obj\netapp.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\obj\netapp.o: ..\wlan\netapp.h
+.\obj\netapp.o: ..\wlan\hci.h
+.\obj\netapp.o: ..\wlan\cc3000_common.h
+.\obj\netapp.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\obj\netapp.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\errno.h
+.\obj\netapp.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\netapp.o: ..\wlan\socket.h
+.\obj\netapp.o: ..\wlan\evnt_handler.h
+.\obj\netapp.o: ..\wlan\nvmem.h

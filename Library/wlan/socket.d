@@ -1,0 +1,11 @@
+.\socket.o: socket.c
+.\socket.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\socket.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\socket.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\socket.o: hci.h
+.\socket.o: cc3000_common.h
+.\socket.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\errno.h
+.\socket.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\socket.o: socket.h
+.\socket.o: evnt_handler.h
+.\socket.o: netapp.h

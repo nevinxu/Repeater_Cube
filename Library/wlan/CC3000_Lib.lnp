@@ -1,0 +1,14 @@
+--cpu Cortex-M3
+".\netapp.o"
+".\nvmem.o"
+".\security.o"
+".\socket.o"
+".\wlan.o"
+".\cc3000_common.o"
+".\evnt_handler.o"
+".\hci.o"
+".\cc3000spi.o"
+--strict --scatter ".\CC3000_Lib.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\CC3000_Lib.map" -o .\CC3000_Lib.axf
